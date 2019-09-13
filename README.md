@@ -9,3 +9,8 @@ training:
 retraining:
 
 ![alt text](https://github.com/abbasloo/dnnHealth/blob/master/GAN_Loss_per_Epoch_final_2.png)
+
+synthetic ECG
+
+![alt text](https://github.com/abbasloo/dnnHealth/blob/master/result.png)
+
