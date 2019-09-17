@@ -1,5 +1,8 @@
 ECG Data Augmentation with Conditional (by heart rate) CNN GAN:
 
+network architecture:
+
+![alt text](https://github.com/abbasloo/dnnHealth/blob/master/AF/net.png)
 
 data:
 
