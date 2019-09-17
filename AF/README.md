@@ -1,4 +1,4 @@
-Conditional (by heart rate) CNN GAN for Data Augmentation:
+ECG Data Augmentation with Conditional (by heart rate) CNN GAN:
 
 
 data:
