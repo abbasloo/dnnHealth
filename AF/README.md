@@ -1,3 +1,6 @@
+Conditional (by heart rate) CNN GAN for Data Augmentation:
+
+
 data:
 
 https://www.physionet.org/content/challenge-2017/1.0.0/
